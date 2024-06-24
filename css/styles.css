@@ -1,0 +1,19 @@
+* {
+    background-color:#fefae0;
+}
+h1 {
+    font-size:60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    color:#c6d1a3;
+    text-shadow:3px 3px black;
+}
+
+#steak {
+    color:black;
+}
+
+ul {
+    font-size:30px;
+    font-family:'Courier New', Courier, monospace;
+}
